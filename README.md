@@ -1,4 +1,4 @@
-# CAFFE for YOLO
+# CAFFE for YOLO (More Implementations with Data & Inference)
 
 ## Reference
 
@@ -17,8 +17,20 @@
   ./convert.sh 
 ```
 
-### Data preparation (udacity, my own data ... )
+### Data preparation (udacity, your own data ... )
 
+> for your own data, there's some needs to data preparation
+
+  1. It needs text file for label like(format):
+  ```Shell
+    name(for <name>.jpg file)  xmax  xmin  ymax  ymin  label
+  ```
+  
+  2. If you prepared a label text file like above, you can use a python script file data/yolo/conv2xml.py.
+     It converts the label text to xml file (to PASCAL VOC format)
+     
+     ```Shell
+     ```
 
 ### Train
 ```Shell
