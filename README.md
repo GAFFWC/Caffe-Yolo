@@ -17,7 +17,7 @@
   ./convert.sh 
 ```
 
-### Data preparation (udacity, your own data ... )
+### + Data preparation (udacity, your own data ... )
 
 > for your own data, there's some needs to data preparation  
 
