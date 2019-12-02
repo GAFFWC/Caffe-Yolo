@@ -35,7 +35,8 @@
     Main/Images : images
     Main/xml : empty (converted xml path)
     Main/xml2 : your own xml files
-  ```
+  ```  
+  (Please remember that you have to change the code where it reads .xml files for node names. Change those parts for your own .xml)
     
   Then,  
   ```shell
