@@ -19,19 +19,19 @@
 
 ### Data preparation (udacity, your own data ... )
 
-> for your own data, there's some needs to data preparation
+> for your own data, there's some needs to data preparation  
 
 
-  > 1. It needs a text file for label like(format):
+   1. It needs a text file for label like(format):  
   
   ```Shell
     name(for <name>.jpg file)  xmax  xmin  ymax  ymin  label
   ```
   
   
-  > 2. If you prepared a label text file like above, you can use a python script file data/yolo/conv2xml.py.
-  >    It converts the label text to xml file (to PASCAL VOC format).
-  >    Please sure that the images are in folder 'Images/', and you have to change some codes in main func (maybe file paths)
+   2. If you prepared a label text file like above, you can use a python script file data/yolo/conv2xml.py.  
+      It converts the label text to xml file (to PASCAL VOC format).  
+      Please sure that the images are in folder 'Images/', and you have to change some codes in main func (maybe file paths)  
         
   ```Shell
     python conv2xml.py
