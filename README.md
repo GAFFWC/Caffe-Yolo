@@ -1,4 +1,4 @@
-# CAFFE for YOLO (More Implementations with Data & Inference)
+# CAFFE for YOLO  (More Implementations with Data & Inference)
 
 ## Reference
 
