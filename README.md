@@ -18,7 +18,7 @@
   ```  
   
   
-   If you prepared a label text file like above, you can use a python script file data/yolo/conv2xml.py.
+   If you prepared a label text file like above, you can use a python script file examples/yolo/conv2xml.py.
      
    It converts the label text to xml file (to PASCAL VOC format).
      
