@@ -28,7 +28,7 @@
     python conv2xml.py
   ```
     
-  And If you already have .xml files but doesn't fit to PASCAL VOC format, then try with data/yolo/conv2voc.py.  
+  And If you already have .xml files but doesn't fit to PASCAL VOC format, then try with examples/yolo/conv2voc.py.  
   
   you have to prepare :  
   ```shell
